@@ -45,7 +45,8 @@ If you're just whining or complaining your issue will be closed.
 
 
 # TODO
-The servers are not entirely correctly sorted
+The servers are not entirely correctly sorted.
+<br>
 Show ping to region on splash image.
 
 # Pull Requests
