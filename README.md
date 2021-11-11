@@ -43,6 +43,10 @@ Keep reports professional and minimalistic.</br>
  </br>
 If you're just whining or complaining your issue will be closed.
 
+
+# Known Issues
+The servers are not entirely correctly sorted. TODO
+
 # Pull Requests
 Explain what was changed and why it would benefit the project.</br>
  </br>
