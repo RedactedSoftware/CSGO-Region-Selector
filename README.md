@@ -44,8 +44,9 @@ Keep reports professional and minimalistic.</br>
 If you're just whining or complaining your issue will be closed.
 
 
-# Known Issues
-The servers are not entirely correctly sorted. TODO
+# TODO
+The servers are not entirely correctly sorted
+Show ping to region on splash image.
 
 # Pull Requests
 Explain what was changed and why it would benefit the project.</br>
